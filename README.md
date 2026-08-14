@@ -6,16 +6,6 @@ My work focuses on **AI & Machine Learning**, **Engineering**, **Robotics Engine
 
 ---
 
-## 🚀 Current Focus
-
-**Hermes Agent**  
-An extensible AI coding & personal agent with persistent memory and multi-platform support. A terminal-native framework for building intelligent, adaptive systems that learn from every interaction.
-
-- [Hermes Agent Repository](https://github.com/kotasiddharth/hermes-agent) - Core framework and agent runtime
-- Full documentation, quickstart, and provider setup guides available
-
----
-
 ## 🤖 AI & Machine Learning
 
 Contributing to open-source AI research and agent development:
@@ -32,7 +22,7 @@ Contributing to open-source AI research and agent development:
 Designing and developing competition-grade control systems and autonomous routines for FIRST Robotics Competition.
 
 - [2026 Robot Code](https://github.com/kotasiddharth/2026-Robot-10913) - Full-season codebase, control algorithms, and autonomous routines
-- [Team Github Link](https://github.com/Legacy-Ranch-High-School-Robotics)
+- [Legacy Ranch Robotics](https://github.com/Legacy-Ranch-High-School-Robotics) - Team Github page for all projects
 - Real-time control systems, vision processing, and competition strategy
 
 ---
