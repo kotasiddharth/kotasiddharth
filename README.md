@@ -1,8 +1,8 @@
-# Siddharth Kota 👋
+# Siddharth Kota 
 
 AI Engineer and Roboticist passionate about building intelligent systems, open-source AI agents, and autonomous robotics solutions.
 
-My work focuses on **AI & Machine Learning**, **Robotics Engineering**, and **Open-Source Development**—contributing to intelligent agent frameworks, control systems, and competitive robotics platforms.
+My work focuses on **AI & Machine Learning**, **Engineering**, **Robotics Engineering**, and **Open-Source Development**—contributing to intelligent agent frameworks, control systems, and competitive robotics platforms.
 
 ---
 
@@ -32,6 +32,7 @@ Contributing to open-source AI research and agent development:
 Designing and developing competition-grade control systems and autonomous routines for FIRST Robotics Competition.
 
 - [2026 Robot Code](https://github.com/kotasiddharth/2026-Robot-10913) - Full-season codebase, control algorithms, and autonomous routines
+- [Team Github Link](https://github.com/Legacy-Ranch-High-School-Robotics)
 - Real-time control systems, vision processing, and competition strategy
 
 ---
